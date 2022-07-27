@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="50mm" height="50mm" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-45.584 -61.611)">
+  <rect x="45.584" y="61.611" width="50" height="50" fill="#fff" opacity=".3" stroke-width=".26458"/>
+  <rect x="48.084" y="64.111" width="45" height="45" ry="3" fill="#dbdee3" stroke="#5278a6" stroke-width=".26458"/>
+  <g transform="translate(-40.82 -42.587)">
+   <g fill="none" stroke="#373e48">
+    <g>
+     <rect x="94.199" y="121" width="34.41" height="16.39" ry=".81952" stroke-width=".31467"/>
+     <g>
+      <path d="m114.76 122.7h10.133" stroke-width=".36525"/>
+      <path d="m117.72 135.82h4.2107" stroke-width=".60876"/>
+      <path d="m111.92 126.47h15.828" stroke-width=".30803"/>
+     </g>
+    </g>
+    <path d="m111.92 132.04h15.828" stroke-width=".30794px"/>
+    <path d="m111.92 129.26h15.828" stroke-width=".30794px"/>
+   </g>
+   <rect x="94.371" y="121.2" width="16" height="16" ry=".68945" fill="#aaf"/>
+   <g fill="none" stroke="#373e48" stroke-width=".8096">
+    <rect x="96.034" y="122.86" width="12.673" height="12.673" ry=".25347"/>
+    <path d="m96.042 133.68s0.86912-7.3402 2.7258-7.3402c1.8567 0 1.9655 4.9764 3.6121 4.9764s0.88467-1.9329 2.0861-1.9329c1.2014 0 4.2452 4.2967 4.2452 4.2967"/>
+    <circle cx="106.07" cy="126.77" r="1.2673"/>
+   </g>
+  </g>
+ </g>
+</svg>

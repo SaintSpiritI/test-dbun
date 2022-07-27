@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="50mm" height="50mm" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-95.943 -128)">
+  <g transform="translate(85.209 189.29)">
+   <rect x="10.734" y="-61.295" width="50" height="50" fill="#fff" opacity=".3" stroke-width=".26458"/>
+   <rect x="13.234" y="-58.795" width="45" height="45" ry="3" fill="#dbdee3" stroke="#5278a6" stroke-width=".26458"/>
+   <g transform="translate(-175.67 -165.49)" fill="none" stroke="#373e48">
+    <rect x="194.2" y="121" width="34.41" height="16.39" ry=".81952" stroke-width=".31467"/>
+    <g transform="translate(.70346 .2173)">
+     <g transform="translate(.79375 .19843)">
+      <g stroke-width=".26754">
+       <path d="m198.42 127.35h5.4367"/>
+       <path d="m198.42 130.56h5.4367"/>
+       <path d="m198.42 133.78h5.4367"/>
+      </g>
+      <path d="m199.04 123.96h4.2107" stroke-width=".60876"/>
+     </g>
+     <g transform="translate(9.5581 .19843)">
+      <g stroke-width=".26754">
+       <path d="m198.42 127.35h5.4367"/>
+       <path d="m198.42 130.56h5.4367"/>
+       <path d="m198.42 133.78h5.4367"/>
+      </g>
+      <path d="m199.04 123.96h4.2107" stroke-width=".60876"/>
+     </g>
+     <g transform="translate(18.322 .19843)">
+      <g stroke-width=".26754">
+       <path d="m198.42 127.35h5.4367"/>
+       <path d="m198.42 130.56h5.4367"/>
+       <path d="m198.42 133.78h5.4367"/>
+      </g>
+      <path d="m199.04 123.96h4.2107" stroke-width=".60876"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="50mm" height="50mm" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-100.05 -108.58)">
+  <g transform="translate(243.59 128.81)">
+   <rect x="-143.53" y="-20.238" width="50" height="50" fill="#fff" opacity=".3" stroke-width=".26458"/>
+   <rect x="-141.03" y="-17.737" width="45" height="45" ry="3" fill="#dbdee3" stroke="#5278a6" stroke-width=".26458"/>
+   <g transform="translate(-129.94 -174.44)">
+    <g fill="none" stroke="#373e48">
+     <rect x="-3.5961" y="164.2" width="30" height="30" ry="1.4929" stroke-width=".3"/>
+     <g stroke-width=".25293px">
+      <path d="m10.289 176.91h13"/>
+      <path d="m10.289 181.49h13"/>
+      <path d="m10.289 179.2h13"/>
+     </g>
+    </g>
+    <rect x="-.48081" y="175.69" width="8.1143" height="7.0217" ry=".4" fill="#aaf"/>
+    <g fill="none">
+     <path d="m1.4164 181.65h4.3199" stroke="#dbdee3" stroke-width=".5"/>
+     <g stroke="#373e48">
+      <g stroke-width=".253">
+       <rect x="1.5962" y="176.63" width="3.9604" height="3.9604" ry=".079208"/>
+       <path d="m1.5987 180.01s0.2716-2.2938 0.85181-2.2938 0.61421 1.5551 1.1288 1.5551 0.27646-0.60403 0.6519-0.60403 1.3266 1.3427 1.3266 1.3427"/>
+       <circle cx="4.7317" cy="177.85" r=".39604"/>
+      </g>
+      <g stroke-width=".25293px">
+       <path d="m10.289 185.56h13"/>
+       <path d="m10.289 190.14h13"/>
+       <path d="m10.289 187.85h13"/>
+      </g>
+     </g>
+    </g>
+    <rect x="-.48081" y="184.34" width="8.1143" height="7.0217" ry=".4" fill="#aaf"/>
+    <g fill="none">
+     <path d="m1.4164 190.3h4.3199" stroke="#dbdee3" stroke-width=".5"/>
+     <g stroke="#373e48">
+      <g stroke-width=".253">
+       <rect x="1.5962" y="185.28" width="3.9604" height="3.9604" ry=".079208"/>
+       <path d="m1.5987 188.66s0.2716-2.2938 0.85181-2.2938 0.61421 1.5551 1.1288 1.5551 0.27646-0.60403 0.6519-0.60403 1.3266 1.3427 1.3266 1.3427"/>
+       <circle cx="4.7317" cy="186.5" r=".39604"/>
+      </g>
+      <g stroke-width=".25293px">
+       <path d="m10.289 168.26h13"/>
+       <path d="m10.289 172.83h13"/>
+       <path d="m10.289 170.55h13"/>
+      </g>
+     </g>
+    </g>
+    <rect x="-.48081" y="167.04" width="8.1143" height="7.0217" ry=".4" fill="#aaf"/>
+    <g fill="none">
+     <path d="m1.4164 172.99h4.3199" stroke="#dbdee3" stroke-width=".5"/>
+     <g stroke="#373e48" stroke-width=".253">
+      <rect x="1.5962" y="167.97" width="3.9604" height="3.9604" ry=".079208"/>
+      <path d="m1.5987 171.36s0.2716-2.2938 0.85181-2.2938 0.61421 1.5551 1.1288 1.5551 0.27646-0.60403 0.6519-0.60403 1.3266 1.3427 1.3266 1.3427"/>
+      <circle cx="4.7317" cy="169.2" r=".39604"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

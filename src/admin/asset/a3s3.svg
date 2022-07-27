@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="50mm" height="50mm" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-124.85 -95.528)">
+  <g transform="translate(315.82 69.234)">
+   <rect x="-190.97" y="26.294" width="50" height="50" fill="#fff" opacity=".3" stroke-width=".26458"/>
+   <rect x="-188.47" y="28.794" width="45" height="45" ry="3" fill="#dbdee3" stroke="#5278a6" stroke-width=".26458"/>
+   <g transform="translate(-127.37 -77.904)">
+    <rect x="-51.355" y="119.2" width="25.519" height="20" ry="1" fill="none" stroke="#373e48" stroke-width=".29934"/>
+    <g transform="matrix(-1 0 0 1 -76.753 0)">
+     <g transform="matrix(-1 0 0 1 -73.31 -4.5537)" fill="none" stroke="#373e48" stroke-width=".25293px">
+      <path d="m-45.096 132.36h13"/>
+      <path d="m-45.096 136.93h13"/>
+      <path d="m-45.096 134.64h13"/>
+     </g>
+     <g transform="matrix(-1 0 0 1 -84.024 2.7618)">
+      <rect x="-41.267" y="124.83" width="5.3418" height="5" ry="0" fill="#aaf"/>
+      <g fill="none" stroke="#373e48" stroke-width=".253">
+       <rect x="-40.576" y="125.35" width="3.9604" height="3.9604" ry=".079208"/>
+       <path d="m-40.574 128.73s0.2716-2.2938 0.85181-2.2938c0.58021 0 0.61421 1.5551 1.1288 1.5551 0.51457 0 0.27646-0.60403 0.6519-0.60403 0.37545 0 1.3266 1.3427 1.3266 1.3427"/>
+       <circle cx="-37.441" cy="126.57" r=".39604"/>
+      </g>
+     </g>
+    </g>
+    <rect x="-49.734" y="121.34" width="5" height="1.5" ry=".5" fill="#373e48"/>
+    <g fill="#6f7c91">
+     <rect x="-32.458" y="121.34" width="5" height="1.5" ry=".5"/>
+     <rect x="-38.217" y="121.34" width="5" height="1.5" ry=".5"/>
+     <rect x="-43.975" y="121.34" width="5" height="1.5" ry=".5"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

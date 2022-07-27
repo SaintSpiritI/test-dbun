@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="50mm" height="50mm" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-74.909 -61.27)">
+  <g transform="translate(315.88 134.98)">
+   <rect x="-240.97" y="-73.706" width="50" height="50" fill="#fff" opacity=".3" stroke-width=".26458"/>
+   <rect x="-238.47" y="-71.206" width="45" height="45" ry="3" fill="#dbdee3" stroke="#5278a6" stroke-width=".26458"/>
+   <g transform="translate(-127.37 -177.9)">
+    <g stroke="#373e48">
+     <rect x="-101.86" y="120.41" width="26.522" height="17.585" ry=".87927" fill="none" stroke-width=".28615"/>
+     <g stroke-width=".30738">
+      <rect x="-98.596" y="119.2" width="20" height="20" ry=".4" fill="#dbdee3"/>
+      <path d="m-98.583 136.28s1.3716-11.584 4.3016-11.584 3.1018 7.8534 5.7004 7.8534 1.3961-3.0503 3.2921-3.0503 6.6995 6.7807 6.6995 6.7807" fill="none"/>
+      <circle cx="-82.762" cy="125.36" r="2" fill="none"/>
+     </g>
+    </g>
+    <g fill="#373e48">
+     <circle cx="-96.096" cy="141.47" r=".5"/>
+     <circle cx="-88.596" cy="141.47" r=".5"/>
+     <circle cx="-92.346" cy="141.47" r=".5"/>
+     <circle cx="-84.846" cy="141.47" r=".5"/>
+     <circle cx="-81.096" cy="141.47" r=".5"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

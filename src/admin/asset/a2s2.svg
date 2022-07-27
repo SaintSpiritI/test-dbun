@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="50mm" height="50mm" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-92.658 -104.25)">
+  <g transform="translate(333.63 127.96)">
+   <rect x="-240.97" y="-23.706" width="50" height="50" fill="#fff" opacity=".3" stroke-width=".26458"/>
+   <rect x="-238.47" y="-21.206" width="45" height="45" ry="3" fill="#dbdee3" stroke="#5278a6" stroke-width=".26458"/>
+   <g transform="translate(-77.371 -127.9)">
+    <g fill="none" stroke="#373e48">
+     <rect x="-148.6" y="119.2" width="20" height="20" ry="1" stroke-width=".265"/>
+     <g stroke-width=".25293px">
+      <path d="m-145.1 121.88h13"/>
+      <path d="m-145.1 131.94h13"/>
+      <path d="m-145.1 136.51h13"/>
+      <path d="m-145.1 134.23h13"/>
+     </g>
+    </g>
+    <rect x="-146.1" y="124.41" width="15" height="5" ry="0" fill="#aaf"/>
+    <g fill="none" stroke="#373e48" stroke-width=".253">
+     <rect x="-140.58" y="124.93" width="3.9604" height="3.9604" ry=".079208"/>
+     <path d="m-140.57 128.31s0.2716-2.2938 0.85181-2.2938 0.61421 1.5551 1.1288 1.5551c0.51458 0 0.27646-0.60403 0.65191-0.60403 0.37544 0 1.3266 1.3427 1.3266 1.3427"/>
+     <circle cx="-137.44" cy="126.15" r=".39604"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
